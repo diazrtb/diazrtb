@@ -63,7 +63,7 @@ const deniz = {
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=diazrtb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5eead4&icon_color=5eead4&text_color=e2e8f0" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazrtb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5eead4&text_color=e2e8f0" alt="top languages" />
+
 
 <br/>
 
