@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=diazrtb&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
+![Views](https://hits.sh/github.com/diazrtb.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=2c5364)
 ![Followers](https://img.shields.io/github/followers/diazrtb?style=for-the-badge&logo=github&color=203a43&labelColor=0f2027)
 ![Stars](https://img.shields.io/github/stars/diazrtb?style=for-the-badge&logo=github&color=203a43&labelColor=0f2027)
 
